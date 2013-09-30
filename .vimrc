@@ -164,7 +164,7 @@
         let g:solarized_termtrans=1
         let g:solarized_contrast="high"
         let g:solarized_visibility="high"
-        color solarized             " Load a colorscheme
+        colorscheme solarized             " Load a colorscheme
     endif
 
     set tabpagemax=15               " Only show 15 tabs
